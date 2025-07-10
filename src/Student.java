@@ -6,4 +6,9 @@ public class Student extends person {
         System.out.println("Student walk");
     }
 
+    public void Study(){
+        walk();
+        talk();
+        System.out.println("Student Study");
+    }
 }
