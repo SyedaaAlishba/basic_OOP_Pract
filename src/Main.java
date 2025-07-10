@@ -3,6 +3,7 @@ public class Main {
         Student std1= new Student();
         std1.Study();
         Teacher T1= new Teacher();
-         T1.Teach();
+        T1.Teach();
+        System.out.println("Nothing");
     }
 }
